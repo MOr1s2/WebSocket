@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\34576\Documents\GitHub\WebSocket\client\OICQ\源.cpp(28,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Previous IPDB not found, fall back to full compilation.
+  正在生成代码
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  OICQ.vcxproj -> C:\Users\34576\Documents\GitHub\WebSocket\client\Release\OICQ.exe

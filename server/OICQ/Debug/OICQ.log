@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\34576\Documents\GitHub\WebSocket\server\OICQ\源.cpp(73,6): warning C4101: “retval”: 未引用的局部变量
+C:\Users\34576\Documents\GitHub\WebSocket\server\OICQ\源.cpp(101,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\34576\Documents\GitHub\WebSocket\server\OICQ\源.cpp(99,6): warning C4101: “i”: 未引用的局部变量
+  OICQ.vcxproj -> C:\Users\34576\Documents\GitHub\WebSocket\server\Debug\OICQ.exe

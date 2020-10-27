@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\client\\connected",
-    "\\server"
+    "\\MFCSocket\\MFCSocket",
+    "\\MFCSocket\\MFCSocket\\res",
+    "\\WindowsSocket"
   ],
-  "SelectedNode": "\\server\\server.sln",
   "PreviewInSolutionExplorer": false
 }

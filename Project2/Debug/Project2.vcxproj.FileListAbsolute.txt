@@ -1,2 +1,0 @@
-C:\Users\MOr1s2\Documents\GitHub\WebSocket\Project2\Debug\Project2.exe
-C:\Users\MOr1s2\Documents\GitHub\WebSocket\Project2\Debug\Project2.pdb

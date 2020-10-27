@@ -1,2 +1,1 @@
-﻿  源.cpp
-  test.vcxproj -> C:\Users\MOr1s2\Documents\GitHub\WebSocket\server\Debug\test.exe
+﻿C:\Users\34576\Documents\GitHub\WebSocket\server\test\test.vcxproj : error MSB4025: 未能加载项目文件。未能找到文件“C:\Users\34576\Documents\GitHub\WebSocket\server\test\test.vcxproj”。
